@@ -1,4 +1,23 @@
-# IBM Cloud Security and Compliance Center Documentation
+Gitpod ready
+to
+code
+https
+img.shields.io/badge/Gitpod
+ready
+to
+code-blue
+logo
+gitpod
+https
+gitpod.io
+https
+github.com/ibm
+cloud
+docs
+security
+compliance)
+
+IBM Cloud Security and Compliance Center Documentation
 
 Welcome to the docs repo for the Security and Compliance Center! Feedback and updates are always welcome.
 
